@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608364602 source:c:\users\lenovo\documents\python\tubesaka\__pycache__\bubble\bubble.cpp
+	<iostream>
+	"bubble.h"
+
+1608364602 c:\users\lenovo\documents\python\tubesaka\__pycache__\bubble\bubble.h
+
+1608365904 source:c:\users\lenovo\documents\coding\tubesaka\bubble\bubble.cpp
+	<iostream>
+	"bubble.h"
+
+1608364602 c:\users\lenovo\documents\coding\tubesaka\bubble\bubble.h
+
+1608365909 source:c:\users\lenovo\documents\coding\tubesaka\bubble\main.cpp
+	<iostream>
+	"bubble.h"
+

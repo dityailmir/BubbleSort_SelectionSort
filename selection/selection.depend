@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1608380515 source:c:\users\lenovo\documents\python\tubesaka\__pycache__\selection\selection.cpp
+	<iostream>
+	"selection.h"
+
+1608380515 c:\users\lenovo\documents\python\tubesaka\__pycache__\selection\selection.h
+
+1608380723 source:c:\users\lenovo\documents\python\tubesaka\__pycache__\selection\main.cpp
+	<iostream>
+	"selection.h"
+
+1608381123 source:c:\users\lenovo\documents\coding\tubesaka\selection\main.cpp
+	<iostream>
+	"selection.h"
+
+1608380515 c:\users\lenovo\documents\coding\tubesaka\selection\selection.h
+
+1608380515 source:c:\users\lenovo\documents\coding\tubesaka\selection\selection.cpp
+	<iostream>
+	"selection.h"
+
